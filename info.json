@@ -1,11 +1,11 @@
 {
-    "name": "CanYaCoin",
+    "name": "Automated Income Machine",
     "type": "BEP20",
-    "symbol": "CAN",
+    "symbol": "AIM",
     "decimals": 18,
-    "website": "https://canwork.io/",
-    "description": "CanYaCoin (CAN) is the BEP20 asset for the CanWork ecosystem",
-    "explorer": "https://bscscan.com/token/0x007EA5C0Ea75a8DF45D288a4debdD5bb633F9e56",
+    "website": "https://aimtoken.tech/",
+    "description": "Automated Income Machine (AIM) is the BEP20 asset for the AIM ecosystem",
+    "explorer": "https://bscscan.com/token/0x0bF3BAcAF2442Ecb7545709960056dbDe23FD674",
     "status": "active",
-    "id": "0x007EA5C0Ea75a8DF45D288a4debdD5bb633F9e56"
+    "id": "0x0bF3BAcAF2442Ecb7545709960056dbDe23FD674"
 }
